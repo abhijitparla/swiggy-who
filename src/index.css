@@ -1,0 +1,47 @@
+.header-cls {
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 5px 5px 5px  grey;
+}
+
+.header-cls div {
+    align-self: center;
+    margin-left:15px;
+}
+
+.nav-items {
+    display: flex;
+    list-style: none;
+}
+
+.nav-items li {
+    margin-right: 5px;
+}
+
+.rest-card {
+    border: 1px solid black;
+    width: 200px;
+    margin-top:10px;
+    margin-left: 10px;
+}
+
+.rest-card-items {
+    padding: 9px;
+}
+
+.rest-img-cls {
+    padding: 3px;
+}
+
+.rest-img-cls img {
+    width: 193px;
+}
+
+.layout-cls {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cuisine-cls {
+    
+}
