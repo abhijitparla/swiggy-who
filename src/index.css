@@ -21,8 +21,12 @@
 .rest-card {
     border: 1px solid black;
     width: 200px;
-    margin-top:10px;
-    margin-left: 10px;
+    margin:20px;
+    cursor: pointer;
+}
+
+.rest-card:hover {
+    box-shadow: 10px 10px 10px grey;
 }
 
 .rest-card-items {
@@ -43,5 +47,5 @@
 }
 
 .cuisine-cls {
-    
+
 }

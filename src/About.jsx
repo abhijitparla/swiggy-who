@@ -1,9 +1,9 @@
 import React from 'react'
-
+import UserClass from './components/UserClass'
 const About = () => {
   return (
     <div>
-      Welcome to about
+      <UserClass name={"Olive (class)"}/>
     </div>
   )
 }

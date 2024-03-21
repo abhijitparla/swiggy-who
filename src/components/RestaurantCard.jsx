@@ -1,7 +1,6 @@
 import React from 'react'
 
 const RestaurantCard = ({restaurantName, imgId, rating, avgTime, cuisine, location}) => {
-  const val = "e0839ff574213e6f35b3899ebf1fc597"
   return (
     <div className='rest-card'>
       <div className='rest-img-cls'>
